@@ -1,0 +1,39 @@
+/* App.css */
+
+.app {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.header {
+  background-image: url('cake.JPG');
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-align: center;
+}
+
+.header-overlay {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+  padding: 20px;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.about {
+  margin-bottom: 20px;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+.contact p {
+  margin-bottom: 10px;
+}
